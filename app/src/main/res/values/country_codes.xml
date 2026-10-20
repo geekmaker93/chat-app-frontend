@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_codes">
+        <item>US (+1)</item>
+        <item>UK (+44)</item>
+        <item>Canada (+1)</item>
+        <item>India (+91)</item>
+        <item>Australia (+61)</item>
+        <item>Jamaica (+1)</item>
+        <item>Kenya (+254)</item>
+        <item>Japan (+81)</item>
+    </string-array>
+</resources>

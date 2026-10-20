@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380582714175",
+    "project_id": "chatapp-6f506",
+    "storage_bucket": "chatapp-6f506.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380582714175:android:438adffbeaa9022c3c118a",
+        "android_client_info": {
+          "package_name": "com.gracie.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqJf27q28bquaQ_FwbWhRLJSZfl1Wuy-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

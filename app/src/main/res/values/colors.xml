@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chatly_primary">#7C4DFF</color>
+    <color name="chatly_on_primary">#FFFFFF</color>
+    <color name="chatly_secondary">#C4B5FD</color>
+    <color name="chatly_background">#F8F7FC</color>
+    <color name="chatly_surface">#FFFFFF</color>
+    <color name="chatly_text_primary">#211D2B</color>
+    <color name="chatly_text_secondary">#777181</color>
+    <color name="chatly_success">#4ADE80</color>
+    <color name="chatly_error">#F87171</color>
+    <color name="avatar_purple">#6750A4</color>
+    <color name="avatar_coral">#B35E62</color>
+    <color name="avatar_blue">#456D9B</color>
+    <color name="avatar_green">#397762</color>
+    <color name="avatar_gold">#8A6930</color>
+</resources>
